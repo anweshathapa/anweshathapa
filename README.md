@@ -40,7 +40,7 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/anweshathapa/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anweshathapa&color=ff4b4b&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Counter" />
 </p>
   
 
