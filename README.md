@@ -11,9 +11,15 @@
 - 📚 Deepening my knowledge in secure database architecture and predictive data modeling.
 - 💬 Ask me about UI design, web scraping pipelines, or frontend performance optimization.
 
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anweshathapa&show_icons=true&theme=radical)
+  ### 📊 My GitHub Analytics
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anweshathapa&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anweshathapa&show_icons=true&theme=radical&rank_icon=github" alt="Anwesh's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anweshathapa&layout=compact&theme=radical" alt="Top Languages Used" />
+</p>
 
   
 
