@@ -15,10 +15,11 @@
 
 ---
 
+
 ### 📊 My GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anweshathapa&show_icons=true&theme=radical&rank_icon=github" alt="Anwesh's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=anweshathapa&show_icons=true&theme=radical&rank_icon=github" alt="Anwesh's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -26,8 +27,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anweshathapa&layout=compact&theme=radical" alt="Top Languages Used" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anweshathapa&layout=compact&theme=radical" alt="Top Languages Used" />
 </p>
+
+---
 
 ---
 
