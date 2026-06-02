@@ -1,6 +1,8 @@
 # Hey, I am Anwesha! ؛༊
 ### A full-stack software developer focused on crafting aesthetic, user-centric web applications.
 
+---
+
 ### 🛠️ Tech Stack & Tools
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -32,10 +34,15 @@
 
 ---
 
----
-
 
 ![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/anweshathapa/anweshathapa/output/github-contribution-grid-snake.svg)
+
+
+---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/anweshathapa/count.svg" alt="Profile Views" />
+</p>
   
 
 <!--
