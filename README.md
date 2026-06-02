@@ -1,7 +1,6 @@
 # Hey, I am Anwesha! ؛༊
 ### A full-stack software developer focused on crafting aesthetic, user-centric web applications.
 
----
 
 ### 🛠️ Tech Stack & Tools
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
