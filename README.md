@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hey, I am Anwesha! ؛༊
+### A full-stack software developer focused on crafting aesthetic, user-centric web applications.
+
+### 🛠️ Tech Stack & Tools
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+- 🚀 Currently building full-stack tracking applications and interactive dashboards.
+- 📚 Deepening my knowledge in secure database architecture and predictive data modeling.
+- 💬 Ask me about UI design, web scraping pipelines, or frontend performance optimization.
+
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anweshathapa&show_icons=true&theme=radical)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anweshathapa&layout=compact&theme=radical)
+
+  
 
 <!--
 **anweshathapa/anweshathapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
