@@ -13,13 +13,23 @@
 
   ### 📊 My GitHub Analytics
 
+---
+
+### 📊 My GitHub Analytics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anweshathapa&show_icons=true&theme=radical&rank_icon=github" alt="Anwesh's GitHub Stats" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anweshathapa&theme=radical" alt="Anwesh's GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anweshathapa&layout=compact&theme=radical" alt="Top Languages Used" />
 </p>
+
+---
 
 
 ![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/anweshathapa/anweshathapa/output/github-contribution-grid-snake.svg)
