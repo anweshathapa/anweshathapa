@@ -1,9 +1,7 @@
+# Hey, I am Anwesha! ؛༊
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4B4B&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+%26+Next.js+Engineer;Systems+Engineering+Student" alt="Typing SVG" />
 </p>
----
-# Hey, I am Anwesha! ؛༊
-### A full-stack software developer focused on crafting aesthetic, user-centric web applications.
 
 
 ### 🛠️ Tech Stack & Tools
