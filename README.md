@@ -20,7 +20,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anweshathapa&layout=compact&theme=radical" alt="Top Languages Used" />
 </p>
-### 🐍 My Contribution Snake
+
 
 ![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/anweshathapa/anweshathapa/output/github-contribution-grid-snake.svg)
   
