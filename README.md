@@ -44,8 +44,6 @@
 - 📚 Deepening my knowledge in secure database architecture and predictive data modeling.
 - 💬 Ask me about UI design, web scraping pipelines, or frontend performance optimization.
 
-  ### 📊 My GitHub Analytics
-
 ---
 
 
