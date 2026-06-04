@@ -1,6 +1,8 @@
 # Hey, I am Anwesha! ؛༊
 ### A full-stack software developer focused on crafting aesthetic, user-centric web applications.
 
+[![Spotify](https://novatorem-spotify-readme.vercel.app/api/run?background_color=0f2043&text_color=ffffff&artist_color=60a5fa)](https://open.spotify.com)
+
 ## 🛠️ Ecosystem & Technical Architecture
 
 ### 🌐 Client Interface & State Layer
