@@ -1,7 +1,7 @@
 # Hey, I am Anwesha! ؛༊
 ### A full-stack software developer focused on crafting aesthetic, user-centric web applications.
 
-## 🛠️ Ecosystem & Technical Architecture
+## 🛠️ Technical Architecture
 
 
 <p align="left">
