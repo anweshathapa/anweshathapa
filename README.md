@@ -1,11 +1,9 @@
 # Hey, I am Anwesha! ؛༊
 ### A full-stack software developer focused on crafting aesthetic, user-centric web applications.
 
-[![Spotify](https://novatorem-spotify-readme.vercel.app/api/run?background_color=0f2043&text_color=ffffff&artist_color=60a5fa)](https://open.spotify.com)
-
 ## 🛠️ Ecosystem & Technical Architecture
 
-### 🌐 Client Interface & State Layer
+
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js_14/15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -13,8 +11,6 @@
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
-
-### ⚙️ Compute, Backends & Real-Time Engines
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js_Runtime-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -23,15 +19,12 @@
   <img src="https://img.shields.io/badge/Python_FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-### 🗄️ Database, Vector Indexing & Auth Pipelines
 <p align="left">
   <img src="https://img.shields.io/badge/Supabase_PostgreSQL-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON_Web_Tokens-000000?style=for-the-badge&logo=jsonwebtext-tokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Clerk_Auth-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
 </p>
-
-### 🧰 Pipeline Automation & System Utilities
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
