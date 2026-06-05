@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anweshathapa/anweshathapa/main/assets/banner(1).gif" width="100%">
+  <img src="./assets/banner(1).gif" width="100%" alt="Anime Banner">
 </p>
 
 # Hey, I am Anwesha! ؛༊
