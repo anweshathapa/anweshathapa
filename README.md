@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/download(14).gif" width="100%">
+</p>
+
 # Hey, I am Anwesha! ؛༊
 ### A full-stack software developer focused on crafting aesthetic, user-centric web applications.
 
