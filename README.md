@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/download(14).gif" width="100%">
+  <img src="./assets/download (14).gif" width="100%">
 </p>
 
 # Hey, I am Anwesha! ؛༊
