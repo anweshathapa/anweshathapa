@@ -3,6 +3,10 @@
 </p>
 
 # Hey, I am Anwesha! ؛༊
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Engineer;Building+scalable+MERN+systems;AI+Integration+Enthusiast;Cozy+UI/UX+Designer&center=true&width=450&height=30&color=F7A3C5&vCenter=true&size=20" alt="Typing SVG" />
+</p>
+
 ### A full-stack software developer focused on crafting aesthetic, user-centric web applications.
 
 ## 🛠️ Technical Architecture
@@ -60,9 +64,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anweshathapa&layout=compact&theme=radical" alt="Top Languages Used" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Engineer;Building+scalable+MERN+systems;AI+Integration+Enthusiast;Cozy+UI/UX+Designer&center=true&width=450&height=30&color=F7A3C5&vCenter=true&size=20" alt="Typing SVG" />
-</p>
 
 ---
 
