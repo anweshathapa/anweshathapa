@@ -2,7 +2,7 @@
   <img src="./assets/banner-1.gif" width="50%" alt="Anime Banner">
 </p>
 
-# Hey, I am Anwesha! ؛༊ 
+# Hey, I am Anwesha! ؛༊ 𓏲ּ𝄢
 
 ### A full-stack software developer focused on crafting aesthetic, user-centric web applications.
 
