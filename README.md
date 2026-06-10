@@ -6,7 +6,7 @@
 
 ### A full-stack software developer focused on crafting aesthetic, user-centric web applications.
 
-## 🛠️ Technical Architecture
+## 🛠️ Technical Architectures
 
 
 <p align="left">
