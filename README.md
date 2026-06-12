@@ -68,7 +68,7 @@
 ![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/anweshathapa/anweshathapa/output/github-contribution-grid-snake.svg)
 
 
-
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anweshathapa&color=ff4b4b&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Counter" />
